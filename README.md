@@ -1,5 +1,6 @@
 # BcsBees
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2c5f9f8d-6381-40a0-8eb2-c730b9737e25/deploy-status)](https://app.netlify.com/sites/bcsbees/deploys)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
 
 ## Development server
